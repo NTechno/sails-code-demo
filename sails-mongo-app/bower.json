@@ -1,0 +1,22 @@
+{
+  "name": "sails-mongo-app",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "techno12"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vender",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.5.0",
+    "jsrender": "^1.0.12"
+  }
+}
